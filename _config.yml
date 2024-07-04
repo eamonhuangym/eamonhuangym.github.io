@@ -21,7 +21,7 @@ repository               : "eamonhuangym/eamonhuangym.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myphoto.png"
   name             : "黄翊珉 Yimin Huang"
   pronouns         : # example: "she/her"  
   bio              : "You can also call me Eamon :)"
